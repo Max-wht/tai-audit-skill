@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tai Audit"
+  short_description: "Business-flow-first Solidity audit skill"
+  default_prompt: "Run tai audit on this smart contract codebase and produce a classified security report."
